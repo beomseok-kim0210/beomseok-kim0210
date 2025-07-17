@@ -1,14 +1,12 @@
 ## 🎉 끝장나는 Git 리드미 (README.md) 디자인 템플릿
 
-````markdown
-<h1 align="center">🧠 SSAFY Git 실습 리포지토리</h1>
-<p align="center">"CLI, 커밋, 그리고 버전 관리의 세계로 뛰어든 나의 기록"</p>
+# 🧠 SSAFY Git 실습 리포지토리
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-Fundamentals-red?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMD-Command_Line-black?logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSAFY-14기-blue" />
-</div>
+> "CLI, 커밋, 그리고 버전 관리의 세계로 뛰어든 나의 기록"
+
+![Git](https://img.shields.io/badge/Git-Fundamentals-red?logo=git&logoColor=white)
+![CMD](https://img.shields.io/badge/CMD-Command_Line-black?logo=windows&logoColor=white)
+![SSAFY](https://img.shields.io/badge/SSAFY-14기-blue)
 
 ---
 
