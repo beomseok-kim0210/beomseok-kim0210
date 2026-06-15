@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Frontend & AI Product Builder · 김범석
+# 🤖 AI Product Builder · 김범석
 
 **“사람은 기술을 기억하지 않습니다. 경험을 기억합니다.”**
 
-음성 인터페이스, 실시간 UX, 생성형 AI를
-**사용자가 체감하는 제품 경험**으로 연결하는 개발자입니다.
+멀티 에이전트, 생성형 AI, 실시간 인터페이스를
+**사용자가 체감하는 제품 경험**으로 연결하는 AI 개발자입니다.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://beomseok-portfolio.vercel.app)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Home-37c8c96517988158aaf8f07a40dff2f4)
@@ -29,20 +29,20 @@
 
 ## 🛠 기술 스택
 
-**Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-
 **AI / ML**
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Orchestration-6E56CF?logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-34D399?logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-60A5FA?logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-F59E0B?logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
+
+**Product / Web**
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
 
 **Backend & Infra**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
